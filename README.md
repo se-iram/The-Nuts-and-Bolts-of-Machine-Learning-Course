@@ -19,7 +19,7 @@ Waze is looking to improve user retention. This project focuses on creating a cl
 
 Both models were optimized using `GridSearchCV` to tune hyperparameters and improve performance.
 
-## 🛠ey Steps
+## Key Steps
 
 - Imported required Python libraries
 - Conducted feature engineering (including binary encoding for categorical features)
